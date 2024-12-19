@@ -106,3 +106,6 @@
 "0xe1e85bfb":
   signature: "doImplementationStuff(bytes)"
   source: system:unknown
+"0x2e1a7d4d":
+  signature: "withdraw(uint256)"
+  source: system:unknown
