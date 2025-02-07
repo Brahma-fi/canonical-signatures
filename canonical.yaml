@@ -109,3 +109,6 @@
 "0x2e1a7d4d":
   signature: "withdraw(uint256)"
   source: system:unknown
+"0x52bbbe29":
+  signature: "swap((bytes32,uint8,address,address,uint256,bytes),(address,bool,address,bool),uint256,uint256)"
+  source: system:unknown
